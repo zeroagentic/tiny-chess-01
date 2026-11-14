@@ -1,2 +1,3 @@
 source_v30.py
 __pycache__/
+*.pyc
